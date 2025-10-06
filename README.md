@@ -27,8 +27,6 @@ Hi I'm Abu Hanif
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-```
-
 
 ---
 
@@ -39,9 +37,9 @@ Hi I'm Abu Hanif
 - 🌐 [Mejiwoo Project](https://github.com/abuhanif7016/mejiwoo-project)
 
 *Projects URL Links*  
- [Medifit](https://abuhanif7016.github.io/medifit-project/) 
- [Mejiwoo](https://abuhanif7016.github.io/mejiwoo-project/)
- [Transform Body ](https://abuhanif7016.github.io/transform-your-body/)
+ |[Medifit](https://abuhanif7016.github.io/medifit-project/) 
+ |[Mejiwoo](https://abuhanif7016.github.io/mejiwoo-project/)
+ |[Transform Body ](https://abuhanif7016.github.io/transform-your-body/)
 
 ---
 
@@ -60,8 +58,12 @@ Hi I'm Abu Hanif
 
 ---
 
+📬 Connect With Me
 
+- 📧 Email: [abuhanif20058@gmail.com](mailto:abuhanif20058@gmail.com)  
+- 📱 Phone: ‪+8801734937016‬  
+- 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)  
+- 💼 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abuhanif20058@gmail.com)
+[![Call](https://img.shields.io/badge/Phone-01734937016-black?style=for-the-badge&logo=phone)](tel:+8801734937016)
 
-📫 *Let's connect Me...*  
-Email: abuhanif20058@gmail.com
-Number: 01734937016
