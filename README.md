@@ -46,11 +46,17 @@ I focus on clean code, responsive design, and continuous learning.
 
 ---
 
-🔹 GitHub Stats
-markdown
-📊 GitHub Stats
-![Hanif's GitHub stats](https://github-readme-stats.vercel.app/api?username=abuhanif7016&show_icons=true&theme=tokyonight)
-,,,
+📊 GitHub Status
+---
+![Abu Hanif's GitHub stats](https://github-readme-stats.vercel.app/api?username=abuhanif7016&show_icons=true&theme=tokyonight)
+
+Most Used Languages
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 ---
 
 
