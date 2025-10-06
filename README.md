@@ -79,6 +79,12 @@ URL:
 ![GitHub Streak](https://streak-stats.demolab.com?user=abuhanif7016&theme=tokyonight&hide_border=true)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abuhanif7016&theme=react-dark&hide_border=true)
 
+🐍 GitHub Contribution Snake
+
+![Snake animation](https://github.com/abuhanif7016/abuhanif7016/blob/output/github-contribution-grid-snake.svg)
+
+
+---
 
 
 
