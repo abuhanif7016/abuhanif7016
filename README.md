@@ -1,8 +1,8 @@
 Hi I'm Abu Hanif
 ---
-🎓 *Diploma in Computer Science & Technology*  
-🏫 *Cox's Bazar Polytechnic Institute*  
-💼 *Internship:* BdCalling IT Ltd, Dhaka
+🚀 MERN Stack Developer | Passionate Coder | Tech Enthusiast     
+🎓 Studied at Cox's Bazar Polytechnic Institute | CSE    
+💼 Internship at BdCalling IT LTD, Dhaka
 
 ---
 
@@ -15,12 +15,12 @@ Hi I'm Abu Hanif
 
 ---
 
-🛠 Skills & Tools
-- HTML, CSS, Tailwind  
-- JavaScript (Learning)  
-- React.js (Learning)  
-- Git & GitHub  
-- VS Code
+🛠 Skills
+![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react)
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss)
 
 ---
 
