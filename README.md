@@ -1,4 +1,11 @@
-Hi I'm Abu Hanif
+<h1 align="center">
+  Hi 👋, I'm <span style="color:#38BDF8;">Abu Hanif</span>
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=500&color=38BDF8&center=true&vCenter=true&width=435&lines=Frontend+Developer;JavaScript+%7C+React+Enthusiast;TailwindCSS+Lover;Learning+Every+Day" alt="Typing SVG" />
+</p>
+
 --
 🚀 MERN Stack Developer | Full-Stack Web Developer | A Frontend Developer     
 🎓 Studied at Cox's Bazar Polytechnic Institute | CST    
