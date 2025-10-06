@@ -1,8 +1,4 @@
-**abuhanif7016/abuhanif7016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-👋 Hi there! I'm Md Abu Hanif
+I'm Md Abu Hanif
 
 🎓 *Diploma in Computer Science & Technology*  
 🏫 *Cox's Bazar Polytechnic Institute*  
