@@ -67,10 +67,12 @@ Projects URL Links :
 | ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | 49.89 |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)   | 20.26% |
 
+📊 GitHub Contributions
 
-📈 GitHub Contribution
+![GitHub Streak](https://streak-stats.demolab.com?user=abuhanif7016&theme=tokyonight&hide_border=true)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=abuhanif7016&bg_color=0d1117&color=00ffb3&line=00ffff&point=ffffff&area=true&hide_border=true)
 
-![GitHub Contribution Snake](https://github.com/abuhanif7016/abuhanif7016/blob/output/github-contribution-grid-snake.svg)
+![GitHub Contributions](https://github.com/abuhanif7016/abuhanif7016/blob/output/github-contribution-grid-snake.svg)
+
 
