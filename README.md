@@ -72,3 +72,30 @@ Projects URL Links :
 ![GitHub Streak](https://streak-stats.demolab.com?user=abuhanif7016&theme=tokyonight&hide_border=true)
 
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark&hide_border=true)
+
+
+🔁 Replace your-username with your GitHub username.
+
+Example:
+
+md
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abuhanif7016&theme=react-dark&hide_border=true)
+
+
+---
+
+✅ Option 2: GitHub Readme Stats (Top Languages, Stats Cards)
+
+You can also show language usage and contribution stats like this:
+
+md
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abuhanif7016&layout=compact&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abuhanif7016&show_icons=true&theme=radical)
+
+
+---
+
+
+
