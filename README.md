@@ -33,7 +33,6 @@ I focus on clean code, responsive design, and continuous learning.
 
 🚀 Live Projects
 
-- 📝 [My Portfolio Website](https://your-live-site-url.com)
 - 💪 [Transform Your Body](https://github.com/abuhanif7016/transform-your-body)
 - 🎨 [Medifit Project](https://github.com/abuhanif7016/medifit-project)
 - 🌐 [Mejiwoo Project](https://github.com/abuhanif7016/mejiwoo-project)
@@ -55,29 +54,8 @@ I focus on clean code, responsive design, and continuous learning.
 |--------------|--------|
 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)        | 95.59% |
 | ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)          | 85.86%  |
-| ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | — |
+| ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | 69.89 |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)   | 20.26% |
-
----
-
-
-📊 Most Used Languages & Technologies
-
-markdown
-> 🌐 Tech Usage Overview
-
-💠 *HTML5*  
-🔸 ![HTML5](https://img.shields.io/badge/HTML5-%2028.59%25-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-💠 *CSS3*  
-🔸 ![CSS3](https://img.shields.io/badge/CSS3-%206.86%25-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-💠 *Tailwind CSS*  
-🔸 ![TailwindCSS](https://img.shields.io/badge/Tailwind-%20Used%20Manually-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-💠 *JavaScript*  
-🔸 ![JavaScript](https://img.shields.io/badge/JavaScript-%2062.26%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
 
 ---
 
