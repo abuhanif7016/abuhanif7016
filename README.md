@@ -47,10 +47,10 @@ Hi I'm Abu Hanif
 - 🎨 [Medifit Project](https://github.com/abuhanif7016/medifit-project)
 - 🌐 [Mejiwoo Project](https://github.com/abuhanif7016/mejiwoo-project)
 
-Projects URL Links :
- | [Medifit](https://abuhanif7016.github.io/medifit-project/) 
- | [Mejiwoo](https://abuhanif7016.github.io/mejiwoo-project/)
- | [Transform Body ](https://abuhanif7016.github.io/transform-your-body/)
+URL Links :
+ .[Medifit](https://abuhanif7016.github.io/medifit-project/) 
+ .[Mejiwoo](https://abuhanif7016.github.io/mejiwoo-project/)
+ .[Transform Body ](https://abuhanif7016.github.io/transform-your-body/)
 
 ---
 
@@ -77,8 +77,6 @@ Projects URL Links :
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abuhanif7016&layout=compact&theme=radical)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abuhanif7016&show_icons=true&theme=radical)
 
 
 
