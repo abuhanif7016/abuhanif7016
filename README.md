@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=500&color=38BDF8&center=true&vCenter=true&width=435&lines=Cox's_Bazar_Polytechnic_Institute;MERN-Stack+Developer;Full-Stack-Web+Developer;HTML_CSS_Tailwind+Complete;Learning+JavaScript_React.js;CST;MD_Abu_Hanif" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=500&color=38BDF8&center=true&vCenter=true&width=435&lines=Cox's_Bazar_Polytechnic_Institute;MERN-Stack+Developer;Full-Stack-Web+Developer;HTML_CSS_Tailwind+Complete;Learning+JavaScript_React.js;Deaprtment+CST;MD_ABU_HANIF" alt="Typing SVG" />
 </p>
 
 🚀 MERN Stack Developer | Full-Stack Web Developer | A Frontend Developer     
@@ -65,9 +65,9 @@ URL:
 ---
 ![Abu Hanif's GitHub stats](https://github-readme-stats.vercel.app/api?username=abuhanif7016&show_icons=true&theme=tokyonight)
 
-📊 Most Used Languages
+📊Learn Languages
 
-| Language     | Usaged |
+| Language     | Learn |
 |--------------|--------|
 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)        | 95.59% |
 | ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)          | 85.86%  |
