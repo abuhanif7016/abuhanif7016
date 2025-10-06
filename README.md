@@ -1,11 +1,11 @@
 Hi I'm Abu Hanif
 --
-🚀 MERN Stack Developer | Passionate Coder | Tech Enthusiast     
+🚀 MERN Stack Developer | Full-Stack Web Developer | A Frontend Developer     
 🎓 Studied at Cox's Bazar Polytechnic Institute | CST    
 💼 Internship at BdCalling IT LTD, Dhaka
 ---
 
-🧠 Full-Stack Web Developer || MERN Stack Learner || A Frontend Developer
+🧠 MERN Stack Learner
 ✨ learning *JavaScript* & *React.js*  
 ⚙ Completed :  
 - ✅ HTML  
