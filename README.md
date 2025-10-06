@@ -39,10 +39,12 @@ I focus on clean code, responsive design, and continuous learning.
 
 ---
 
-*Medifit Project*  
-🔗 [Live Site](https://your-live-link.com) | 💻 [Source Code](https://github.com/abuhanif7016/medifit-project)
+*Projects*  
+🔗 [Live Site](https://abuhanif7016.github.io/medifit-project/) | 💻 [Source Code](https://github.com/abuhanif7016/medifit-project)
+🔗 [Live Site](https://abuhanif7016.github.io/mejiwoo-project/) | 💻 [Source Code](https://github.com/abuhanif7016/mejiwoo-project)
+🔗 [Live Site](https://abuhanif7016.github.io/transform-your-body/) | 💻 [Source Code](https://github.com/abuhanif7016/transform-your-body)
 
 ---
 
-📫 *Let's connect!*  
-Email: *abuhanif20058@gmail.com
+📫 *Let's connect Me...*  
+Email: abuhanif20058@gmail.com
