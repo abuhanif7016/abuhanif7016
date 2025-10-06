@@ -5,8 +5,7 @@ Hi I'm Abu Hanif
 💼 Internship at BdCalling IT LTD, Dhaka
 ---
 
-🧠 MERN Stack Learner
-✨ learning *JavaScript* & *React.js*  
+🧠 learning *JavaScript* & *React.js*  
 ⚙ Completed :  
 - ✅ HTML  
 - ✅ CSS  
