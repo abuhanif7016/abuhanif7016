@@ -23,14 +23,6 @@ Hi I'm Abu Hanif
 ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss)
 
----
-
-🚀 Projects
-Check out some of my pinned projects above ☝  
-I focus on clean code, responsive design, and continuous learning.
-
----
-
 🚀 Live Projects
 
 - 💪 [Transform Your Body](https://github.com/abuhanif7016/transform-your-body)
@@ -54,7 +46,7 @@ I focus on clean code, responsive design, and continuous learning.
 |--------------|--------|
 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)        | 95.59% |
 | ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)          | 85.86%  |
-| ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | 69.89 |
+| ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | 49.89 |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)   | 20.26% |
 
 ---
@@ -63,3 +55,4 @@ I focus on clean code, responsive design, and continuous learning.
 
 📫 *Let's connect Me...*  
 Email: abuhanif20058@gmail.com
+Number: 01734937016
