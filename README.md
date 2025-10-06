@@ -46,5 +46,13 @@ I focus on clean code, responsive design, and continuous learning.
 
 ---
 
+🔹 GitHub Stats
+markdown
+📊 GitHub Stats
+![Hanif's GitHub stats](https://github-readme-stats.vercel.app/api?username=abuhanif7016&show_icons=true&theme=tokyonight)
+
+---
+
+
 📫 *Let's connect Me...*  
 Email: abuhanif20058@gmail.com
