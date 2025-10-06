@@ -67,16 +67,10 @@ URL Links :-
 | ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | 49.89 |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)   | 20.26% |
 
-📊 GitHub Contributions
-
-![GitHub Streak](https://streak-stats.demolab.com?user=abuhanif7016&theme=tokyonight&hide_border=true)
-
-
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abuhanif7016&theme=react-dark&hide_border=true)
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abuhanif7016&layout=compact&theme=radical)
+📊 GitHub Contributions
+![GitHub Streak](https://streak-stats.demolab.com?user=abuhanif7016&theme=tokyonight&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abuhanif7016&theme=react-dark&hide_border=true)
 
 
 
