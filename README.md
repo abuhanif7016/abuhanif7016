@@ -30,6 +30,17 @@ Hi I'm Abu Hanif
 
 ---
 
+📬 Connect With Me
+--
+
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abuhanif20058@gmail.com)
+[![Phone](https://img.shields.io/badge/-Phone-25D366?style=flat&logo=whatsapp&logoColor=white)](tel:+8801734937016)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-1DA1F2?style=flat&logo=internet-explorer&logoColor=white)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/abuhanif_ah)
+
+---
+
 🚀 Live Projects
 
 - 💪 [Transform Your Body](https://github.com/abuhanif7016/transform-your-body)
@@ -57,13 +68,5 @@ Hi I'm Abu Hanif
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)   | 20.26% |
 
 ---
-
-📬 Connect With Me
-
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abuhanif20058@gmail.com)
-[![Phone](https://img.shields.io/badge/-Phone-25D366?style=flat&logo=whatsapp&logoColor=white)](tel:+8801734937016)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-1DA1F2?style=flat&logo=internet-explorer&logoColor=white)](https://your-portfolio-link.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/abuhanif_ah)
 
 
