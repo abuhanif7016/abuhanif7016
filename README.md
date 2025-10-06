@@ -45,4 +45,4 @@ I focus on clean code, responsive design, and continuous learning.
 ---
 
 📫 *Let's connect!*  
-Email: *your-abuhanif20058@gmail.com
+Email: *abuhanif20058@gmail.com
