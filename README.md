@@ -1,18 +1,16 @@
 Hi I'm Abu Hanif
----
+--
 🚀 MERN Stack Developer | Passionate Coder | Tech Enthusiast     
-🎓 Studied at Cox's Bazar Polytechnic Institute | CSE    
+🎓 Studied at Cox's Bazar Polytechnic Institute | CST    
 💼 Internship at BdCalling IT LTD, Dhaka
-
 ---
 
-🧠 *Frontend Developer | MERN Stack Learner*  
-✨ Currently learning *JavaScript* & *React.js*  
-⚙ Completed projects using:  
+🧠 Full-Stack Web Developer || MERN Stack Learner || A Frontend Developer
+✨ learning *JavaScript* & *React.js*  
+⚙ Completed :  
 - ✅ HTML  
 - ✅ CSS  
 - ✅ Tailwind CSS
-
 ---
 
 🛠 Skills
@@ -23,16 +21,18 @@ Hi I'm Abu Hanif
 ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss)
 
+---
+
 🚀 Live Projects
 
 - 💪 [Transform Your Body](https://github.com/abuhanif7016/transform-your-body)
 - 🎨 [Medifit Project](https://github.com/abuhanif7016/medifit-project)
 - 🌐 [Mejiwoo Project](https://github.com/abuhanif7016/mejiwoo-project)
 
-*Projects*  
-🔗 [Medifit](https://abuhanif7016.github.io/medifit-project/) 
-🔗 [Mejiwoo](https://abuhanif7016.github.io/mejiwoo-project/)
-🔗 [Transform Body ](https://abuhanif7016.github.io/transform-your-body/)
+*Projects URL Links*  
+ [Medifit](https://abuhanif7016.github.io/medifit-project/) 
+ [Mejiwoo](https://abuhanif7016.github.io/mejiwoo-project/)
+ [Transform Body ](https://abuhanif7016.github.io/transform-your-body/)
 
 ---
 
