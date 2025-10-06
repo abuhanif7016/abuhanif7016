@@ -64,6 +64,5 @@ Hi I'm Abu Hanif
 - 📱 Phone: ‪+8801734937016‬  
 - 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)  
 - 💼 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abuhanif20058@gmail.com)
-[![Call](https://img.shields.io/badge/Phone-01734937016-black?style=for-the-badge&logo=phone)](tel:+8801734937016)
+- 💼 Instagram: [instagram.com/in/abuhanif_ah](https://instagram.com/in/abuhanif_ah)
 
