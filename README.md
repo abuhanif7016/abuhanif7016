@@ -41,16 +41,16 @@ Hi I'm Abu Hanif
 
 ---
 
-🚀 Live Projects
+🚀 Live Projects :
 
 - 💪 [Transform Your Body](https://github.com/abuhanif7016/transform-your-body)
 - 🎨 [Medifit Project](https://github.com/abuhanif7016/medifit-project)
 - 🌐 [Mejiwoo Project](https://github.com/abuhanif7016/mejiwoo-project)
 
-*Projects URL Links*  
- |[Medifit](https://abuhanif7016.github.io/medifit-project/) 
- |[Mejiwoo](https://abuhanif7016.github.io/mejiwoo-project/)
- |[Transform Body ](https://abuhanif7016.github.io/transform-your-body/)
+Projects URL Links :
+ | [Medifit](https://abuhanif7016.github.io/medifit-project/) 
+ | [Mejiwoo](https://abuhanif7016.github.io/mejiwoo-project/)
+ | [Transform Body ](https://abuhanif7016.github.io/transform-your-body/)
 
 ---
 
@@ -67,6 +67,10 @@ Hi I'm Abu Hanif
 | ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | 49.89 |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)   | 20.26% |
 
----
 
+📈 GitHub Contribution
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=abuhanif7016&bg_color=0d1117&color=00ffb3&line=00ffff&point=ffffff&area=true&hide_border=true)
+
+![GitHub Contribution Snake](https://github.com/abuhanif7016/abuhanif7016/blob/output/github-contribution-grid-snake.svg)
 
