@@ -61,5 +61,27 @@ I focus on clean code, responsive design, and continuous learning.
 ---
 
 
+📊 Most Used Languages & Technologies
+
+markdown
+> 🌐 Tech Usage Overview
+
+💠 *HTML5*  
+🔸 ![HTML5](https://img.shields.io/badge/HTML5-%2028.59%25-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+💠 *CSS3*  
+🔸 ![CSS3](https://img.shields.io/badge/CSS3-%206.86%25-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+💠 *Tailwind CSS*  
+🔸 ![TailwindCSS](https://img.shields.io/badge/Tailwind-%20Used%20Manually-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+💠 *JavaScript*  
+🔸 ![JavaScript](https://img.shields.io/badge/JavaScript-%2062.26%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+
+---
+
+
+
 📫 *Let's connect Me...*  
 Email: abuhanif20058@gmail.com
