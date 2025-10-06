@@ -38,12 +38,10 @@ I focus on clean code, responsive design, and continuous learning.
 - 🎨 [Medifit Project](https://github.com/abuhanif7016/medifit-project)
 - 🌐 [Mejiwoo Project](https://github.com/abuhanif7016/mejiwoo-project)
 
----
-
 *Projects*  
-🔗 [Live Site](https://abuhanif7016.github.io/medifit-project/) | 💻 [Source Code](https://github.com/abuhanif7016/medifit-project)
-🔗 [Live Site](https://abuhanif7016.github.io/mejiwoo-project/) | 💻 [Source Code](https://github.com/abuhanif7016/mejiwoo-project)
-🔗 [Live Site](https://abuhanif7016.github.io/transform-your-body/) | 💻 [Source Code](https://github.com/abuhanif7016/transform-your-body)
+🔗 [Medifit](https://abuhanif7016.github.io/medifit-project/) 
+🔗 [Mejiwoo](https://abuhanif7016.github.io/mejiwoo-project/)
+🔗 [Transform Body ](https://abuhanif7016.github.io/transform-your-body/)
 
 ---
 
@@ -51,12 +49,14 @@ I focus on clean code, responsive design, and continuous learning.
 ---
 ![Abu Hanif's GitHub stats](https://github-readme-stats.vercel.app/api?username=abuhanif7016&show_icons=true&theme=tokyonight)
 
-Most Used Languages
+📊 Most Used Languages
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+| Language     | Usage |
+|--------------|--------|
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)        | 28.59% |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)          | 6.86%  |
+| ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | — |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)   | 62.26% |
 
 ---
 
