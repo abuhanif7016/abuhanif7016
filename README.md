@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=500&color=38BDF8&center=true&vCenter=true&width=435&lines=Cox's+Bazar+Polytechnic+Institute;Department+CST;MERN-Stack+Developer;Full-Stack+Web+Developer;HTML+CSS+TailwindCSS+Complete;Learning+JavaScript_React.js;A+Frontend+Developer;MD+ABU+HANIF;Thank+You" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=500&color=38BDF8&center=true&vCenter=true&width=435&lines=Cox's+Bazar+Polytechnic+Institute;Department+CST;MERN-Stack+Developer;Full-Stack+Web+Developer;HTML+CSS+TailwindCSS+Complete;Learning+JavaScript,React.js;A+Frontend+Developer;MD.ABU+HANIF;Thank+You" alt="Typing SVG" />
 </p>
 
 🚀 MERN Stack Developer | Full-Stack Web Developer | A Frontend Developer     
